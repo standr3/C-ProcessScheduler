@@ -3,7 +3,7 @@
 #include <string.h>
 #include "queue.c"
 
-#define test puts("salut");
+#define test puts("testing!");
 
 int gTicks;
 Queue *gReady, *gTerminated;
