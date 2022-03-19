@@ -1,0 +1,47 @@
+4 3 10
+t
+t
+t
+t
+s
+ma P1 10 3 P2 6 4 P3 8 1 P4 7 1 P5 8 10
+t
+t
+s
+w
+t
+w
+s
+w
+s
+t
+s
+t
+e P5
+s
+t
+s
+t
+s
+ma P12 4 10 P13 8 10 P14 6 2
+t
+t
+t
+s
+t
+s
+w
+t
+s
+w
+t
+s
+t
+w
+e P13
+s
+t
+s
+t
+s
+w
