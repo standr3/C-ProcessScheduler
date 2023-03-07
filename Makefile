@@ -1,8 +1,8 @@
 all:build
 
-build:planificator.c
-	gcc -Wall planificator.c -o planificator
+build:main.c
+	gcc -Wall main.c -o scheduler
 run:build
-	./planificator input output
+	./scheduler input output
 clean:
-	rm -f planificator
+	rm -f scheduler
