@@ -7,7 +7,7 @@
 #include <sys/types.h>
 
 
-#define TESTARE puts("A AJUNS PANA AICI\n");
+
 #define NODE_T_SIZE sizeof(node_t)
 #define PROC_T_SIZE sizeof(proc_t)
 #define PROC_NAME_LEN 12
