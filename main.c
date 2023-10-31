@@ -658,7 +658,7 @@ int main(int argc, char** argv) {
             scheduler->execute_task = line_parse(buffer, &command);
             
             if (command.type == CMD_INIT_SCHED) {
-                // tODO:FUNCTIE MACRO pt asta
+                // macro can replace this
                 scheduler->type = command.argv[0][0] - '0';
                 scheduler->execute_task(scheduler, command);
                 continue;  
